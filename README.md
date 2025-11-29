@@ -2,7 +2,7 @@
 
 Privacy Policy for CHARGEnorth Forum
 
-Effective Date: [Today's Date]
+Effective Date: Nov 29, 2025
 
 1. INFORMATION WE COLLECT
 We collect the following information when you use CHARGEnorth Forum:
@@ -43,6 +43,6 @@ We comply with COPPA regulations.
 We may update this policy and will notify users of changes.
 
 9. CONTACT US
-Questions? Email: [your email]
+Questions? Email: brandonfwhitehead@outlook.com
 
 CHARGEnorth Forum is not affiliated with Google Play or Google LLC.

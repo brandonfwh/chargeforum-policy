@@ -1,5 +1,4 @@
 # chargeforum-policy
-Privacy policy for CHARGEnorth Forum.
 
 Privacy Policy for CHARGEnorth Forum
 
